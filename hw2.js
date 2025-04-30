@@ -1,5 +1,11 @@
 'use strict'
 
+/*
+מגישים:
+ליאון מברין
+יאיל סאלם
+*/
+
 //String methods:
 
 //Task #1:
